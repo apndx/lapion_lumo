@@ -1,5 +1,5 @@
 Nyt tulee 
 kolme täyden täyttä
-riviä hienoa tekstiä tänne 
+riviä hienoa tekstiä tänne // terveisiä GitHubista!
 lempiasioitani kaivuutöissä olivat eka ja toka
 lempitehtäväni oli tehtävä jota en osannutkaan
